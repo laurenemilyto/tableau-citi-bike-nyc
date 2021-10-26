@@ -27,7 +27,7 @@ Data was imported from six csv files into Jupyter Notebook, merged, cleaned, and
 - Added distance(mi) column using Geopy
 - Divided riders into bins by birth year and appended to age column
 
-## Analysis
+## Analysis & Findings
 The focus of this analysis is to compare changes in the Citi Bike program pre-Covid and during Covid, assessing user types and age. 
 
 - Riders rode an average of .3 miles farther in 2020 during the pandemic than in 2019. Average distance riden increased across every age group. However, riders in the 19-29 year old bracket, along with riders in the 30-39 year old bracket covered the most distance and had the largest distance increase (.3 miles). 
