@@ -1,4 +1,3 @@
-# Comparing the Citi Bike Program: Covid-19
 ![Dashboard](https://i.pinimg.com/originals/8d/1e/18/8d1e18d24c94e1b3fdf432796a6f1b21.jpg)
 
 ## Background
