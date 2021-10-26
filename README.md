@@ -16,7 +16,6 @@ Citi Bike Covid Story: [Link](https://public.tableau.com/app/profile/lauren.to80
 ## Process
 Data was imported from six csv files into Jupyter Notebook, merged, cleaned, and extracted into a single csv file (2M KB). Using Python/Pandas the following transformations were performed: 
 
-Transformations
 - Concatenated six csv files
 - Removed null values
 - Dropped unnecessary columns
