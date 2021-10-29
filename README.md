@@ -3,7 +3,7 @@
 ## Background
 Citi Bike is a privately owned public bicycle sharing system serving the New York City boroughs of the Bronx, Brooklyn, Manhattan, and Queens, as well as Jersey City, New Jersey, and Hoboken, New Jersey. 
 
-For this project, I analyzed potential changes to the Citi Bike NYC program for city officials looking at pre-Covid months May, June, July in 2019 and respective months in 2020 during Covid. Data was cleaned via Jupyter Notebook in Python/Pandas and 
+For this project, I analyzed potential changes to the Citi Bike NYC program for city officials looking at pre-Covid months May, June, July in 2019 and respective months in 2020 during Covid. Data was cleaned via Jupyter Notebook in Python/Pandas. 
 
 Citi Bike Covid Story: [Link](https://public.tableau.com/app/profile/lauren.to8058/viz/CitiBikeCovidAnalysis/CitiBikeStory?publish=yes)
 
