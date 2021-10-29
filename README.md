@@ -9,7 +9,7 @@ Citi Bike Covid Story: [Link](https://public.tableau.com/app/profile/lauren.to80
 
 ## Technology
 - Pandas
-- Geopy
+- GeoPy
 - Python
 - Tableau Desktop
 
